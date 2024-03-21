@@ -15,7 +15,7 @@ body{
   max-width: 85%;
 }
 .bg{
-  background-color: #FEF4F2;
+  background-color: #ffffff;
 }
 .section{
   padding: 4rem 0;
@@ -52,7 +52,7 @@ color: #0D0F16;
 }
 /* navbar  */
 .navbar{
-  background-color: #FEF4F2 !important;   
+  background-color: #ffffff !important;   
   margin: 0 auto;
 }
 .navbar-brand{
@@ -148,7 +148,7 @@ a.my-cv:hover {
   background: linear-gradient(90deg, rgba(79,1,1,1) 0%, rgba(242,79,79,1) 81%); /* Add your desired gradient colors */
   color: white;
   font-weight: 600;
-  border: .1rem  solid white;
+  border: .1rem  solid rgb(1, 1, 1);
   transition: all 1s ease-in-out; 
   /* Add a 0s transition for the specified properties */ 
 }
@@ -159,7 +159,7 @@ a.my-cv:hover {
 
 /* first-section */
 .first-section{
-  background-color: #FEF4F2;
+  background-color: #ffffff;
   padding-top: 9rem;
   
 }
